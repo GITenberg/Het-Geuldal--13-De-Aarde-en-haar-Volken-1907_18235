@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7892
     wikipedia: http://www.dbnl.org/tekst/laan005lett01/laan005lett01_4110.htm#v4107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18235#Het-Geuldal--13-De-Aarde-en-haar-Volken-1907
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-04-23'
 gutenberg_type: Text
