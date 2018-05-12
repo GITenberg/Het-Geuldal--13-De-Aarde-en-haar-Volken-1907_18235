@@ -1,0 +1,29 @@
+_repo: Het-Geuldal--13-De-Aarde-en-haar-Volken-1907_18235
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamberts Hurrelbrinck, L. H. J.
+    alias: Hurrelbrinck, L. H. J. Lamberts
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '7892'
+    url: http://www.gutenberg.org/2009/agents/7892
+    wikipedia: http://www.dbnl.org/tekst/laan005lett01/laan005lett01_4110.htm#v4107
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18235'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geul River Valley (Belgium and Netherlands) -- Description and travel'
+- !lcc 'DH'
+title: "Het Geuldal\r\nDe Aarde en haar Volken, 1907"
+url: http://www.gutenberg.org/ebooks/18235
